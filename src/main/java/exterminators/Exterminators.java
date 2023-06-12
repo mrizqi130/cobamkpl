@@ -19,7 +19,7 @@ public class Exterminators {
         //Scanner input = new Scanner(System.in);
         System.out.print("Hellos");
         int a = 2;
-        int b = 2;
+        String b = 2;
         
         System.out.println("Matriks AxB");
         System.out.println("A: "+a);
